@@ -14,6 +14,7 @@ crispy-tailwind = "*"
 django-allauth = "*"
 django-compressor = "*"
 redis = "*"
+django-translate-gettext = "*"
 
 [dev-packages]
 
